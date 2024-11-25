@@ -1,4 +1,4 @@
-template: tankUnitType
+template: TankUnitType
 name: Car
 type: tank
 health: 500
@@ -20,7 +20,7 @@ weapons: [
     rotate: true
     rotateSpeed: 1.75
     bullet: {
-      type: laserBulletType
+      type: LaserBulletType
       lifeTime: 2
       length: 80
       damage: 99999999
