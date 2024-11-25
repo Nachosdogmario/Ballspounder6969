@@ -20,6 +20,7 @@ weapons: [
     type: laserBulletType
     lifeTime: 2
     length: 80
+    damage: 999999999999
   }
 }
 ]
