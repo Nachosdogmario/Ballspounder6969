@@ -1,4 +1,5 @@
 template: tankUnitType
+name: Car
 type: tank
 health: 500
 armor: 90
@@ -20,6 +21,7 @@ weapons: [
     type: laserBulletType
     lifeTime: 2
     length: 80
+    damage: 99999999
   }
 }
 ]
