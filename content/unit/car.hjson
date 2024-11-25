@@ -3,5 +3,23 @@ type: tank
 health: 500
 armor: 90
 speed: 0.75
-hitsize: 40
-rotatespeed: 1.5
+hitSize: 40
+rotateSpeed: 1.5
+crushDamage: 9
+weapons: [
+{
+  name: tankLaser
+  reload: 90
+  mirror: false
+  x: 0
+  y: 0
+  inaccuracy: 3
+  rotate: true
+  rotateSpeed: 1.75
+  bullet: {
+    type: laserBulletType
+    lifeTime: 2
+    length: 80
+  }
+}
+]
