@@ -1,4 +1,7 @@
 template: tankUnitType
 type: tank
 health: 500
-armor: 6
+armor: 90
+speed: 0.75
+hitsize: 40
+rotatespeed: 1.5
