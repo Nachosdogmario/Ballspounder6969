@@ -1,0 +1,4 @@
+template: tankUnitType
+type: tank
+health: 500
+armor: 6
